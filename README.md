@@ -82,6 +82,8 @@ else {
 ```
 ## OUTPUT:
 ![image](https://github.com/selvasachein/Calc/assets/139841688/e6ef2bc5-792a-4c19-bdda-f82e81d978a2)
+![image](https://github.com/Ravi-1105/Calc/assets/139841688/fbb2cb32-f218-44fa-9baf-763dfc8de58a)
+![image](https://github.com/Ravi-1105/Calc/assets/139841688/d398a085-aa91-41a5-8c63-fcb5af15243d)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
